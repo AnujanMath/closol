@@ -1,0 +1,364 @@
+*** NON-FATAL INTERNAL ERROR in "Ready" ***
+Date: Jan 16 2017 8:44 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 40
+    Text - sz:25:372 - slFr:15:43:275 - slTo:15:43:275 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Goto Error - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 42
+    Text - sz:25:372 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 42 (x1)
+    Text - sz:25:372 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 40
+    Text - sz:25:372 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 40 (x1)
+    Text - sz:25:372 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 81cbbd0 - Select: 0
+    Text - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Keystroke (2) - sz:25:371 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+  CMD: WM_CHAR ["] (D) (x3) ["s"]
+    Keystroke - Text: 81cbbd0 - ch: 34
+    Text - sz:25:373 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+    Keystroke (2) - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 1053c - Ex: 1 - Args: 0 - Step: 0
+    Don't compile Console.java - Console.java older than Console.class
+    Don't compile ConsoleParent.java - ConsoleParent.java older than ConsoleParent.class
+    Don't compile FatalError.java - FatalError.java older than FatalError.class
+    Don't compile CloseableDialog.java - CloseableDialog.java older than CloseableDialog.class
+    Don't compile Message.java - Message.java older than Message.class
+    Don't compile ConsoleCanvas.java - ConsoleCanvas.java older than ConsoleCanvas.class
+    Don't compile SavePrint.java - SavePrint.java older than SavePrint.class
+    Don't compile SavePrint$Message.java - No SavePrint$Message.java
+    Don't compile SavePrint$Status.java - No SavePrint$Status.java
+    Don't compile DrawGraphics.java - DrawGraphics.java older than DrawGraphics.class
+    Don't compile ConsoleFrame.java - ConsoleFrame.java older than ConsoleFrame.class
+    Don't compile ConsoleEdges.java - ConsoleEdges.java older than ConsoleEdges.class
+    Don't compile ConsoleCanvasGraphics.java - ConsoleCanvasGraphics.java older than ConsoleCanvasGraphics.class
+    Jikes compiling UseDeckClass
+    Recompile DeckClass.java - DeckClass.java newer than DeckClass.class
+    Recompile CardClass.java - CardClass.java newer than CardClass.class
+    Jikes compiling DeckClass
+    Jikes compiling CardClass
+    Jikes: Found 2 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/UseDeckClass.java":
+    Jikes: Found 3 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/DeckClass.java":
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/CardClass.java":
+    Find Next Error (1) - Text: 1053c - Activate: 1
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 25
+    Text - sz:25:374 - slFr:15:43:275 - slTo:15:43:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Set Selection (2) - sz:25:374 - slFr:257 - slTo:257 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Goto Error - sz:25:374 - slFr:257 - slTo:257 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 43
+    Text - sz:25:374 - slFr:15:25:257 - slTo:15:25:257 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Set Selection (2) - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 43 (x1)
+    Text - sz:25:374 - slFr:15:43:275 - slTo:15:43:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Keystroke (2) - sz:25:373 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:373 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+    Keystroke (2) - sz:25:372 - slFr:273 - slTo:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Keystroke (2) - sz:25:371 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+  CMD: WM_CHAR [1] (D) (x1) [1]
+    Keystroke - Text: 81cbbd0 - ch: 49
+    Text - sz:25:371 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+    Keystroke (2) - sz:25:372 - slFr:273 - slTo:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 1053c - Ex: 1 - Args: 0 - Step: 0
+    Don't compile Console.java - Console.java older than Console.class
+    Don't compile ConsoleParent.java - ConsoleParent.java older than ConsoleParent.class
+    Don't compile FatalError.java - FatalError.java older than FatalError.class
+    Don't compile CloseableDialog.java - CloseableDialog.java older than CloseableDialog.class
+    Don't compile Message.java - Message.java older than Message.class
+    Don't compile ConsoleCanvas.java - ConsoleCanvas.java older than ConsoleCanvas.class
+    Don't compile SavePrint.java - SavePrint.java older than SavePrint.class
+    Don't compile SavePrint$Message.java - No SavePrint$Message.java
+    Don't compile SavePrint$Status.java - No SavePrint$Status.java
+    Don't compile DrawGraphics.java - DrawGraphics.java older than DrawGraphics.class
+    Don't compile ConsoleFrame.java - ConsoleFrame.java older than ConsoleFrame.class
+    Don't compile ConsoleEdges.java - ConsoleEdges.java older than ConsoleEdges.class
+    Don't compile ConsoleCanvasGraphics.java - ConsoleCanvasGraphics.java older than ConsoleCanvasGraphics.class
+    Jikes compiling UseDeckClass
+    Recompile DeckClass.java - DeckClass.java newer than DeckClass.class
+    Recompile CardClass.java - CardClass.java newer than CardClass.class
+    Jikes compiling DeckClass
+    Jikes compiling CardClass
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/UseDeckClass.java":
+    Jikes: Found 3 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/DeckClass.java":
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/CardClass.java":
+    Find Next Error (1) - Text: 1053c - Activate: 1
+    Set Selection (1) - Text: 81cbbd0 - L: 18 - C: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:345 - slTo:345 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Goto Error - sz:25:372 - slFr:345 - slTo:345 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+    Move to Mark - Window: 705aa - Mark #: 16
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "C:\Users\Anujan\Dropbox\Fproj\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = Can't find mark in mark menu (16) (6022)
+   File = src\eddisp.c
+   Line = 7237
+
+Not enough space for modules.
+
+
+------------------------------------------------------
+*** NON-FATAL INTERNAL ERROR in "Ready" ***
+Date: Jan 16 2017 8:44 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Previous Operations:
+    Line Starts: 22:368 23:370 24:371 25:372
+    Goto Error - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 42
+    Text - sz:25:372 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 42 (x1)
+    Text - sz:25:372 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 40
+    Text - sz:25:372 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 40 (x1)
+    Text - sz:25:372 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 81cbbd0 - Select: 0
+    Text - sz:25:372 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Keystroke (2) - sz:25:371 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+  CMD: WM_CHAR ["] (D) (x3) ["s"]
+    Keystroke - Text: 81cbbd0 - ch: 34
+    Text - sz:25:373 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+    Keystroke (2) - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 1053c - Ex: 1 - Args: 0 - Step: 0
+    Don't compile Console.java - Console.java older than Console.class
+    Don't compile ConsoleParent.java - ConsoleParent.java older than ConsoleParent.class
+    Don't compile FatalError.java - FatalError.java older than FatalError.class
+    Don't compile CloseableDialog.java - CloseableDialog.java older than CloseableDialog.class
+    Don't compile Message.java - Message.java older than Message.class
+    Don't compile ConsoleCanvas.java - ConsoleCanvas.java older than ConsoleCanvas.class
+    Don't compile SavePrint.java - SavePrint.java older than SavePrint.class
+    Don't compile SavePrint$Message.java - No SavePrint$Message.java
+    Don't compile SavePrint$Status.java - No SavePrint$Status.java
+    Don't compile DrawGraphics.java - DrawGraphics.java older than DrawGraphics.class
+    Don't compile ConsoleFrame.java - ConsoleFrame.java older than ConsoleFrame.class
+    Don't compile ConsoleEdges.java - ConsoleEdges.java older than ConsoleEdges.class
+    Don't compile ConsoleCanvasGraphics.java - ConsoleCanvasGraphics.java older than ConsoleCanvasGraphics.class
+    Jikes compiling UseDeckClass
+    Recompile DeckClass.java - DeckClass.java newer than DeckClass.class
+    Recompile CardClass.java - CardClass.java newer than CardClass.class
+    Jikes compiling DeckClass
+    Jikes compiling CardClass
+    Jikes: Found 2 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/UseDeckClass.java":
+    Jikes: Found 3 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/DeckClass.java":
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/CardClass.java":
+    Find Next Error (1) - Text: 1053c - Activate: 1
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 25
+    Text - sz:25:374 - slFr:15:43:275 - slTo:15:43:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Set Selection (2) - sz:25:374 - slFr:257 - slTo:257 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Goto Error - sz:25:374 - slFr:257 - slTo:257 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 81cbbd0 - L: 15 - C: 43
+    Text - sz:25:374 - slFr:15:25:257 - slTo:15:25:257 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Set Selection (2) - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 81cbbd0 - L: 15 - C: 43 (x1)
+    Text - sz:25:374 - slFr:15:43:275 - slTo:15:43:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:374 - slFr:275 - slTo:275 - nlA:0
+    Line Starts: 22:370 23:372 24:373 25:374
+    Keystroke (2) - sz:25:373 - slFr:274 - slTo:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:373 - slFr:15:42:274 - slTo:15:42:274 - nlA:0
+    Line Starts: 22:369 23:371 24:372 25:373
+    Keystroke (2) - sz:25:372 - slFr:273 - slTo:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_CHAR [#8] (D)
+    Keystroke - Text: 81cbbd0 - ch: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Keystroke (2) - sz:25:371 - slFr:272 - slTo:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+  CMD: WM_CHAR [1] (D) (x1) [1]
+    Keystroke - Text: 81cbbd0 - ch: 49
+    Text - sz:25:371 - slFr:15:40:272 - slTo:15:40:272 - nlA:0
+    Line Starts: 22:367 23:369 24:370 25:371
+    Keystroke (2) - sz:25:372 - slFr:273 - slTo:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+  CMD: WM_INITMENU (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 1053c - Ex: 1 - Args: 0 - Step: 0
+    Don't compile Console.java - Console.java older than Console.class
+    Don't compile ConsoleParent.java - ConsoleParent.java older than ConsoleParent.class
+    Don't compile FatalError.java - FatalError.java older than FatalError.class
+    Don't compile CloseableDialog.java - CloseableDialog.java older than CloseableDialog.class
+    Don't compile Message.java - Message.java older than Message.class
+    Don't compile ConsoleCanvas.java - ConsoleCanvas.java older than ConsoleCanvas.class
+    Don't compile SavePrint.java - SavePrint.java older than SavePrint.class
+    Don't compile SavePrint$Message.java - No SavePrint$Message.java
+    Don't compile SavePrint$Status.java - No SavePrint$Status.java
+    Don't compile DrawGraphics.java - DrawGraphics.java older than DrawGraphics.class
+    Don't compile ConsoleFrame.java - ConsoleFrame.java older than ConsoleFrame.class
+    Don't compile ConsoleEdges.java - ConsoleEdges.java older than ConsoleEdges.class
+    Don't compile ConsoleCanvasGraphics.java - ConsoleCanvasGraphics.java older than ConsoleCanvasGraphics.class
+    Jikes compiling UseDeckClass
+    Recompile DeckClass.java - DeckClass.java newer than DeckClass.class
+    Recompile CardClass.java - CardClass.java newer than CardClass.class
+    Jikes compiling DeckClass
+    Jikes compiling CardClass
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/UseDeckClass.java":
+    Jikes: Found 3 semantic errors compiling "C:/Users/Anujan/Dropbox/Fproj/DeckClass.java":
+    Jikes: Found 1 semantic error compiling "C:/Users/Anujan/Dropbox/Fproj/CardClass.java":
+    Find Next Error (1) - Text: 1053c - Activate: 1
+    Set Selection (1) - Text: 81cbbd0 - L: 18 - C: 8
+    Text - sz:25:372 - slFr:15:41:273 - slTo:15:41:273 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Set Selection (2) - sz:25:372 - slFr:345 - slTo:345 - nlA:0
+    Line Starts: 22:368 23:370 24:371 25:372
+    Goto Error - sz:25:372 - slFr:345 - slTo:345 - nlA:0
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+    Move to Mark - Window: 705aa - Mark #: 16
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_INITMENU (W)
+    Move to Mark - Window: 705aa - Mark #: 16
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+
+
+
+The environment has experienced an unexpected internal error.
+
+This error is caused by a bug in the environment and is not your fault!
+Details about the crash have been saved in the file "C:\Users\Anujan\Dropbox\Fproj\panic.log".
+
+If possible, please e-mail this file to readybugs@hsa.on.ca
+
+Here are some details about the error:
+   Error = Can't find mark in mark menu (16) (6022)
+   File = src\eddisp.c
+   Line = 7237
+
+TROUBLE!  You're already in the crash handler!
+
+
+------------------------------------------------------
